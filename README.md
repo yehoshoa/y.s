@@ -1,1 +1,1 @@
-# y.s
+In this project I got data on sales of video games on different platforms. Among other things, there is data on reviews of the games, platform, historical data on sales. The main goal was to identify patterns that would give us an indication of a game whether it would be successful or not.
